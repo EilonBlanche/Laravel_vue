@@ -1,3 +1,5 @@
+<p>My UI and UX implementation is the best because it is easy to use, user-friendly and lastly, cause it uses vue js, a popular javascript framework with big community that 
+has lots of resources in the web for references.  It also uses concepts of OOP in both frontend (VUE) and backend (Laravel), MVC framework.</p>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
